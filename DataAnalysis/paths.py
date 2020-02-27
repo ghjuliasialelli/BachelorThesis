@@ -40,6 +40,8 @@ PATHS3 = [PATH1_3, PATH2_3, PATH3_3, PATH4_3, PATH5_3, PATH6_3]
 
 ##############################################################################
 
+PATHS = PATHS2 + PATHS3
+
 path_dict = {2:PATHS2, 
              3:PATHS3
              }
